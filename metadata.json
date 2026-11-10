@@ -1,0 +1,6 @@
+{
+  "name": "SG HealthMap: SingStat & OneMap Healthcare Adequacy Analytics",
+  "description": "Geospatial healthcare accessibility dashboard analyzing Singapore population demographics from SingStat against clinic distribution from OneMap to assess service adequacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
